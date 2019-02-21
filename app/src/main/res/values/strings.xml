@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sportskeeda-Test-App</string>
+    <string name="feed_text">Feed</string>
+    <string name="search">Search</string>
+    <string name="spinner">Drop down</string>
+</resources>
